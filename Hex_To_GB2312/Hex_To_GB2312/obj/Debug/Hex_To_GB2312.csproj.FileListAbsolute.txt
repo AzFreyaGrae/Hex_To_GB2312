@@ -1,0 +1,9 @@
+C:\Users\Administrator.AZ\source\repos\Hex_To_GB2312\Hex_To_GB2312\obj\Debug\Hex_To_GB2312.csprojAssemblyReference.cache
+C:\Users\Administrator.AZ\source\repos\Hex_To_GB2312\Hex_To_GB2312\obj\Debug\Hex_To_GB2312.Form1.resources
+C:\Users\Administrator.AZ\source\repos\Hex_To_GB2312\Hex_To_GB2312\obj\Debug\Hex_To_GB2312.Properties.Resources.resources
+C:\Users\Administrator.AZ\source\repos\Hex_To_GB2312\Hex_To_GB2312\obj\Debug\Hex_To_GB2312.csproj.GenerateResource.cache
+C:\Users\Administrator.AZ\source\repos\Hex_To_GB2312\Hex_To_GB2312\obj\Debug\Hex_To_GB2312.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.AZ\source\repos\Hex_To_GB2312\Hex_To_GB2312\bin\Debug\Hex_To_GB2312.exe
+C:\Users\Administrator.AZ\source\repos\Hex_To_GB2312\Hex_To_GB2312\bin\Debug\Hex_To_GB2312.pdb
+C:\Users\Administrator.AZ\source\repos\Hex_To_GB2312\Hex_To_GB2312\obj\Debug\Hex_To_GB2312.exe
+C:\Users\Administrator.AZ\source\repos\Hex_To_GB2312\Hex_To_GB2312\obj\Debug\Hex_To_GB2312.pdb
